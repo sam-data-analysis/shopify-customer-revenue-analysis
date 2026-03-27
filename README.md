@@ -10,9 +10,9 @@ The analysis focuses on customer segments, acquisition channels, repeat purchasi
 
 <img src="Images/Executive Summary.png" width="800">
 
-<img src="Images/Customer Segmentation.png" width="800">
+<img src="Images/Customer_Segmentation.png" width="800">
 
-<img src="Images/Channel Performance.png" width="800">
+<img src="Images/Channel_Performance.png" width="800">
 
 ---
 
