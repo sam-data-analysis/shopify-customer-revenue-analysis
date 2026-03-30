@@ -1,4 +1,4 @@
-# Shopify Customer Revenue Dashboard
+# Shopify Customer Revenue Analysis
 
 This project analyses e-commerce customer behaviour, acquisition performance, and revenue drivers to identify opportunities to improve profitability and retention.
 
